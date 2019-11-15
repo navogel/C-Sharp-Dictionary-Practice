@@ -1,0 +1,11 @@
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.exe
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.deps.json
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.runtimeconfig.json
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.runtimeconfig.dev.json
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.dll
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\bin\Debug\netcoreapp3.0\DictionaryPractice.pdb
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.csprojAssemblyReference.cache
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.AssemblyInfoInputs.cache
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.AssemblyInfo.cs
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.dll
+C:\Nate2019\NSS\workspace\c#\DictionaryPractice\obj\Debug\netcoreapp3.0\DictionaryPractice.pdb
